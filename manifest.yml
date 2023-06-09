@@ -2,7 +2,7 @@ modules:
   jira:issuePanel:
     - key: hello-world-jira-app-hello-world-panel
       function: main
-      title: hello-world-jira-app
+      title: Forge app for Chris for Jira
       icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
   function:
     - key: main
